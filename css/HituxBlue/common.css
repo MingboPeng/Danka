@@ -4,7 +4,7 @@ body,td,th {
 	font-size: 14px;
 }
 
-img, div { behavior: url(/images/iepng/iepngfix.htc); }
+img, div { behavior: url(../../images/iepng/iepngfix.htc); }
 
 body, div, p,img,dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, blockquote {
 	padding:0px;
@@ -68,7 +68,7 @@ input,textarea{
 	margin:auto;}
 #wrapper #head{
 	width:100%;
-	background:url("../../images/Hituxblue/head_bg.jpg") repeat-x left 0px;
+	background:url("../../images/HituxBlue/head_bg.jpg") repeat-x left 0px;
 }
 
 #wrapper #head .top{
@@ -126,7 +126,7 @@ input,textarea{
 #wrapper #head #NavLink .NavBG{
 	height:58px;
 	width:100%;
-	background:url("../../images/Hituxblue/nav_bg1.jpg") repeat-x left 0;
+	background:url("../../images/HituxBlue/nav_bg1.jpg") repeat-x left 0;
 	position:absolute;
 	z-index:100;}	
 		
@@ -147,7 +147,7 @@ input,textarea{
 	text-align: center;
 	padding:10px 10px;
 	height:38px;
-	background:url("../../images/Hituxblue/nav_bg1.jpg") no-repeat 0 0px;
+	background:url("../../images/HituxBlue/nav_bg1.jpg") no-repeat 0 0px;
 	}
 #wrapper #head #NavLink #sddm li P{
 	font-size:10px;
@@ -156,7 +156,7 @@ input,textarea{
 	text-transform:uppercase;}
 #wrapper #head #NavLink #sddm li a:hover
 {	text-decoration:none;
-	background:url("../../images/Hituxblue/nav_bg2.jpg") repeat-x center 0px;
+	background:url("../../images/HituxBlue/nav_bg2.jpg") repeat-x center 0px;
 }
 
 #wrapper #head #NavLink #sddm div
@@ -443,7 +443,7 @@ input,textarea{
  width: 50px;
  height:50px;
  line-height: 1.2;
- background:url("../../images/hituxblue/back_top.png") left top;;
+ background:url("../../images/HituxBlue/back_top.png") left top;;
  color: #fff;
  font-size: 12px;
  text-align: center;
@@ -492,7 +492,7 @@ input,textarea{
 	z-index: 9;
 }
 #popupTitleBar {
-	background:url("../../images/hituxblue/box_bg1.jpg") repeat-x left top;
+	background:url("../../images/HituxBlue/box_bg1.jpg") repeat-x left top;
 	color: #3092b9;
 	font-weight: bold;
 	height: 1.3em;
@@ -514,7 +514,7 @@ input,textarea{
 	height: 15px;
 	width: 15px;
 	text-indent: -9000px;
-	background: url('/images/hituxblue/close.gif') no-repeat;
+	background: url('../../images/HituxBlue/close.gif') no-repeat;
 }
 
 
