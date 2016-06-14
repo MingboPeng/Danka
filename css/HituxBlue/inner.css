@@ -22,7 +22,7 @@
 	}
 
 #body .inner .left .Sbox .topic{
-	background:url("/images/Hituxblue/topic_bg1.gif") repeat left top;
+	background:url("/images/HituxBlue/topic_bg1.gif") repeat left top;
 	font-size:12px;
 	font-family:"Microsoft Yahei";
 	margin:0px 0px 0px 0px;
@@ -36,7 +36,7 @@
 #body .inner .left .Sbox .blank ul li{
 	cursor:pointer;
 	height:30px;
-	background:url("/images/Hituxblue/link_bg1.gif") repeat 0px 0px;	
+	background:url("/images/HituxBlue/link_bg1.gif") repeat 0px 0px;	
 }
 #body .inner .left .Sbox .blank .current a{
 	background:#3092b9;
@@ -50,7 +50,7 @@
 	line-height:30px;
 	padding-left:30px;
 	border-bottom:1px dotted #DDDDDD;
-	background:url("/images/Hituxblue/link_bg2.gif") no-repeat 12px 10px;}	
+	background:url("/images/HituxBlue/link_bg2.gif") no-repeat 12px 10px;}	
 #body .inner .left .Sbox .blank ul li a:hover{
 	background:#3092b9;
 	border-bottom:1px solid #FFFFFF;
@@ -78,13 +78,13 @@
 #body .inner .right  .Position{
 	font-size:12px;
 	line-height:33px;
-	background:url("/images/Hituxblue/box_bg5.jpg") repeat left top;
+	background:url("/images/HituxBlue/box_bg5.jpg") repeat left top;
 	}
 #body .inner .right  .Position a{
 	color:#666666;}
 #body .inner .right  .Position span{
 	padding-left:30px;
-	background:url("/images/Hituxblue/box_icon2.png") no-repeat 10px 4px;
+	background:url("/images/HituxBlue/box_icon2.png") no-repeat 10px 4px;
 	}
 
 
@@ -110,7 +110,7 @@
 	line-height:200%;
 	}
 #body .inner .right .main .content .download{
-	background:url("/images/Hituxblue/downicon.gif") no-repeat 15px 7px;
+	background:url("/images/HituxBlue/downicon.gif") no-repeat 15px 7px;
 	padding-left:55px;
 	border:1px solid #F5F5F5;
 	line-height:40px;
@@ -123,7 +123,7 @@
 	margin-top:10px;}
 #body .inner .right .main .content .prenext ul li{
 	line-height:30px;
-	background:url("/images/Hituxblue/jiantou.gif") no-repeat 0px 1px;
+	background:url("/images/HituxBlue/jiantou.gif") no-repeat 0px 1px;
 	padding-left:15px;}				
 				
 #body .inner .right .main .ArticleList{
@@ -167,7 +167,7 @@
 #body .inner .left .Sbox .ClassNav .NavTree ul li{
 position: relative;
 
-background:url("/images/Hituxblue/link_bg1.gif") repeat 0px 0px;	
+background:url("/images/HituxBlue/link_bg1.gif") repeat 0px 0px;	
 }
 	
 /*1st level sub menu style */
@@ -198,7 +198,7 @@ z-index:2000;}
 	 }	
 
 #body .inner .left .Sbox .ClassNav .NavTree ul li li{
-	background:url("/images/Hituxblue/box_icon1.png") no-repeat 12px 12px;
+	background:url("/images/HituxBlue/box_icon1.png") no-repeat 12px 12px;
 	padding-left:0;
 	text-align:center;
 	z-index:2000;
@@ -220,7 +220,7 @@ background:#3092b9;
 text-decoration:none;
 }
 #body .inner .left .Sbox .ClassNav .NavTree .subfolderstyle{
-background: url(/images/Hituxblue/arrow-list.gif) no-repeat 180px center ;
+background: url(/images/HituxBlue/arrow-list.gif) no-repeat 180px center ;
 }
 /* Holly Hack for IE \*/
 * html #body .inner .left .Sbox .ClassNav .NavTree ul li { float: left; height: 1%;z-index:2000; }
@@ -345,7 +345,7 @@ background: url(/images/Hituxblue/arrow-list.gif) no-repeat 180px center ;
 	padding:10px 20px;
 	border-bottom:1px dashed #CCCCCC;
 	font-size:14px;
-	background:url("/images/Hituxblue/ico4.jpg") no-repeat left 18px;}
+	background:url("/images/HituxBlue/ico4.jpg") no-repeat left 18px;}
 
 
 #body .inner .right .main .SiteMap ul li ul li{
@@ -386,7 +386,7 @@ background: url(/images/Hituxblue/arrow-list.gif) no-repeat 180px center ;
 	padding:0px 20px 5px 20px;}	
  .FeedBack .Fright .Fcontent{
 	width:600px;
-	background:url("/images/Hituxblue/PostBG.jpg") no-repeat left top;
+	background:url("/images/HituxBlue/PostBG.jpg") no-repeat left top;
 	padding:10px 0px;
 	}
  .FeedBack .Fright .Fcontent p{
@@ -397,7 +397,7 @@ background: url(/images/Hituxblue/arrow-list.gif) no-repeat 180px center ;
 	line-height:20px;
 	color:#FFFFFF;
 	height:25px;
-	background:url("/images/Hituxblue/picon.gif") no-repeat 2px 0px;
+	background:url("/images/HituxBlue/picon.gif") no-repeat 2px 0px;
 	padding-left:20px;
 	font-weight:bold;}
  .FeedBack .Fright .Fcontent .Freply p{
